@@ -1,0 +1,23 @@
+recipe-tagging-system
+|
+|-- frontend
+| |
+| \-- react-app
+|
+|-- backend
+| |
+| \-- routes
+| |
+| |-- user_verification
+| | |
+| | |-- checking_ddos
+| | |-- injections
+| | \-- bots_attacks
+| |
+| |-- connection_to_third_party_api
+| |-- processing_result
+| |-- sending_back_to_user
+| |-- signing_up_user
+| \-- connecting_to_firebase
+|
+|-- root (Main project directory)
